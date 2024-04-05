@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T02:50:08.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="OswKp6U187JeG2hZmO0u" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T02:52:39.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Hrqhfu-X4oqY906s8NqF" version="21.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1166" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,6 +56,12 @@
         </mxCell>
         <mxCell id="1X7ULU5N5mZ-QIuYlgxG-19" value="合并输出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1X7ULU5N5mZ-QIuYlgxG-24" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1X7ULU5N5mZ-QIuYlgxG-25" value="fuck，我不知道啊" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
